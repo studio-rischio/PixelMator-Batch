@@ -60,3 +60,12 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+/build-*/
+.DS_Store
+*~lock~*
+/agent_space/
+/build/
+# local photo test folders
+/test_input/
+/test_input Edited/
