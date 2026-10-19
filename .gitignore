@@ -69,3 +69,4 @@ fastlane/test_output
 # local photo test folders
 /test_input/
 /test_input Edited/
+/dist/
