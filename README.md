@@ -1,7 +1,13 @@
+<p align="center">
+  <img src="icon/icon.png" width="128" alt="Pixelmator Batch icon">
+</p>
+
 # Pixelmator Batch
 
 A small macOS app that applies a Pixelmator Pro **color adjustments preset** to every image in a folder.
 It drives Pixelmator Pro over AppleScript (open → apply preset → export → close) and writes the results either to a separate output folder or over the originals.
+
+![Pixelmator Batch main window: a source folder drop zone and output options on the left, the list of color adjustment presets from your Pixelmator Pro library on the right](docs/screenshot.png)
 
 ## Requirements
 
